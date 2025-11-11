@@ -1,5 +1,5 @@
 body { 
-    background-color: ;
+    background-color: rgb(177, 177, 177);
 }
 
 .cabecalho{
@@ -16,7 +16,7 @@ body {
 }
 
 #titulo {
-
+    font-size: 30px;
 }
 
 p {
