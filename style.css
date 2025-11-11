@@ -48,6 +48,8 @@ button{
     color: rgb(255, 255, 255);
     background-color: #51612b;
     padding: 30px 60px;
+    display: block;
+	margin: 10px auto;
 }
 
 
