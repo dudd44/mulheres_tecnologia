@@ -73,10 +73,10 @@ footer{
 }
 
 .imgindex{
-    width: 500px;
-	height: 300px;
+    width: 700px;
+	height: 500px;
     border-radius: 30px;
     object-fit: cover;
     margin: 0 40em;
-    border: 5px solid #795f45;
+    border: 5px solid #795f45; 
 }
