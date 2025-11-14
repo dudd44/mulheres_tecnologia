@@ -76,7 +76,6 @@ footer{
     width: 400px;
 	height: 100px;
     border-radius: 30px;
-    object-fit: cover;
     margin: 0 40em;
     border: 5px solid #795f45; 
 }
