@@ -78,4 +78,5 @@ footer{
     display: inline-block;  /* Garante que a imagem se comporte como um bloco para centralização básica se necessário */
     border: 3px solid #333;  /* Borda opcional */
     margin: 3px;
+    align-items: center;
 }
