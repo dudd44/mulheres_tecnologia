@@ -71,3 +71,14 @@ footer{
     padding: 50px;
     font-size: 25px;
 }
+
+.imgindex{
+    width: 700px;
+	height: 500px;
+    align-items: center;
+    border-radius: 30px;
+    object-fit: cover;
+    margin: 0 40em;
+    border: 5px solid #795f45;
+    
+}
