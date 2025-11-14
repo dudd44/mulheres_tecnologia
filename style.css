@@ -77,6 +77,6 @@ footer{
     object-fit: cover;  /* Garante que a imagem preencha o círculo sem distorção, cortando as bordas extras, se necessário */
     display: inline-block;  /* Garante que a imagem se comporte como um bloco para centralização básica se necessário */
     border: 3px solid #333;  /* Borda opcional */
-    margin: 3px;
+    margin: 5px;
     align-items: center;
 }
