@@ -71,8 +71,8 @@ footer{
 }
 
 .imgindex{
-    width: 400px;  /* Define uma largura fixa (pode ser ajustada) */
-    height: 400px;  /* Define uma altura fixa e igual à largura */
+    width: 300px;  /* Define uma largura fixa (pode ser ajustada) */
+    height: 300px;  /* Define uma altura fixa e igual à largura */
     border-radius: 50%;  /* Transforma o elemento em um círculo/oval */
     object-fit: cover;  /* Garante que a imagem preencha o círculo sem distorção, cortando as bordas extras, se necessário */
     display: inline-block;  /* Garante que a imagem se comporte como um bloco para centralização básica se necessário */
