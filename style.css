@@ -34,7 +34,9 @@ body {
 
 
 .menu{
-    display: inline-block;
+    display: grid; /* Cria um layout de grade */
+    grid-template-columns: 1fr 1fr 1fr 1fr; /* Divide em 4 colunas iguais */
+    gap: 10px; /* Opcional: adiciona um espaço entre as colunas */
     font-size: 35px;
 
 }
