@@ -29,6 +29,7 @@ p {
 	height: 500px;
     align-items: center;
     border-radius: 30px;
+    justify-content: center;
 }
 
 nav{
