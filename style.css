@@ -29,7 +29,9 @@ p {
 	height: 500px;
     align-items: center;
     border-radius: 30px;
-    justify-content: center;
+    object-fit: cover;
+    margin: 0 40em;
+    
 }
 
 nav{
