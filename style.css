@@ -56,12 +56,12 @@ button{
 
 footer{
     position: fixed;
-    grid-template-columns: 1fr;
+    
     bottom: 0;
     width: 100%;
     background-color: #51612b;
     color: whitesmoke;
-    font-size: 40px;
+    font-size: 10px;
     padding: 30px;
 }
 
