@@ -5,8 +5,6 @@ body {
 .cabecalho{
     background-color: #51612b;
     color: whitesmoke;
-    padding-top: 30px;
-    padding-bottom: 30px;
     font-size: 45px;
     padding: 20px;
     text-align: center;
@@ -84,4 +82,25 @@ footer{
     align-items: center;
     margin-top: 90px;
     margin-left: 80px;
+}
+
+@media (max-width=768px){
+
+
+.cabecalho{
+    background-color: #51612b;
+    color: whitesmoke;
+    font-size: 55px;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 30%;
+}
+
+
+
+
+
 }
