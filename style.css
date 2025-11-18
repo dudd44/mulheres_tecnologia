@@ -35,6 +35,8 @@ body {
     grid-template-columns: 1fr 1fr 1fr 1fr; /* Divide em 4 colunas iguais */
     margin: 20px;
     font-size: 35px;
+    text-decoration: none;
+    color: #51612b;
 }
 
 li a{
