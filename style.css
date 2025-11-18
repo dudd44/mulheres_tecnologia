@@ -44,18 +44,17 @@ li a{
 
 button{
     font-size: 20px;
-    color: rgb(255, 255, 255);
+    color: #e4cfba;
     background-color: #51612b;
     padding: 30px 60px;
     display: block;
 	margin: 10px auto;
     border-radius: 20px;
-
+    text-decoration: none;
 }
 
 footer{
     position: fixed;
-    
     bottom: 0;
     width: 100%;
     background-color: #51612b;
