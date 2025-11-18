@@ -6,7 +6,7 @@ body {
     background-color: #51612b;
     color: whitesmoke;
     font-size: 45px;
-    padding: 20px;
+    padding: 30px;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -37,7 +37,6 @@ body {
     grid-template-columns: 1fr 1fr 1fr 1fr; /* Divide em 4 colunas iguais */
     margin: 20px;
     font-size: 35px;
-
 }
 
 li a{
@@ -57,7 +56,7 @@ button{
 }
 
 footer{
-    position: fixed;
+    position: fixed;grid-template-columns: 1fr 1fr 1fr;
     bottom: 0;
     width: 100%;
     background-color: #51612b;
@@ -84,16 +83,16 @@ footer{
     margin-left: 80px;
 }
 
-@media (max-width=768px){
+/*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
+@media (max-width:768px){
 
-
-.cabecalho{
+    .cabecalho{
     background-color: #51612b;
     color: whitesmoke;
     font-size: 55px;
     padding: 20px;
     text-align: center;
-    width: 100%;
+    width: 100%;grid-template-columns: 1fr 1fr 1fr;
 }
 
 
