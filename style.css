@@ -90,7 +90,8 @@ footer{
     font-size: 55px;
     padding: 20px;
     text-align: center;
-    width: 100%;grid-template-columns: 1fr 1fr 1fr;
+    width: 100%;
+    grid-template-columns: 1fr;
 }
 
 
@@ -116,7 +117,6 @@ footer{
     border-radius: 50%;  /* Transforma o elemento em um círculo/oval */
     object-fit: cover;  /* Garante que a imagem preencha o círculo sem distorção, cortando as bordas extras, se necessário */
     display: block;  /* Garante que a imagem se comporte como um bloco para centralização básica se necessário */
-    /* border: 5px solid #795f45;  Borda opcional */
     margin: auto;
     padding: 20px;
 }
