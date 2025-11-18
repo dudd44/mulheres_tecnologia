@@ -99,6 +99,7 @@ footer{
     grid-template-columns: 1fr; /* Divide em 1 colunas iguais */
     margin: 20px;
     font-size: 35px;
+    text-align: center;
 }
 
 
