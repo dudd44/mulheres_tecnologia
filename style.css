@@ -28,7 +28,6 @@ body {
     margin: 0 40em;
     border: 5px solid #795f45;
     margin-left: 90px;
-    text-align: center;
 }
 
 .menu{
@@ -62,7 +61,7 @@ footer{
     background-color: #51612b;
     color: whitesmoke;
     font-size: 10px;
-    padding: 30px;
+    padding: 0px;
 }
 
 .texto{
