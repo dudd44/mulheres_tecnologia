@@ -118,6 +118,7 @@ footer{
     display: block;  /* Garante que a imagem se comporte como um bloco para centralização básica se necessário */
     /* border: 5px solid #795f45;  Borda opcional */
     margin: auto;
+    padding: 20px;
 }
 
 
