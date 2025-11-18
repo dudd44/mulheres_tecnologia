@@ -30,8 +30,6 @@ body {
     
 }
 
-
-
 .menu{
     display: grid; /* Cria um layout de grade */
     grid-template-columns: 1fr 1fr 1fr 1fr; /* Divide em 4 colunas iguais */
@@ -86,7 +84,7 @@ footer{
 /*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
 @media (max-width:768px){
 
-    .cabecalho{
+.cabecalho{
     background-color: #51612b;
     color: whitesmoke;
     font-size: 55px;
@@ -95,6 +93,13 @@ footer{
     width: 100%;grid-template-columns: 1fr 1fr 1fr;
 }
 
+
+.menu{
+    display: grid; /* Cria um layout de grade */
+    grid-template-columns: 1fr; /* Divide em 1 colunas iguais */
+    margin: 20px;
+    font-size: 35px;
+}
 
 
 
