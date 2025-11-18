@@ -12,8 +12,7 @@ body {
     text-align: center;
     display: flex;
     justify-content: center;
-    gap: 30%;
-    
+    gap: 30%;  
 }
 
 #titulo {
@@ -54,7 +53,6 @@ button{
     display: block;
 	margin: 20px auto;
     border-radius: 20px;
-    text-decoration: none;
 }
 
 footer{
